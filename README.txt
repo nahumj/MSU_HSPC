@@ -1,1 +1,1 @@
-This is the MSU High SChool PRogramming Repo.
+This is the MSU High School PRogramming Repo.
